@@ -55,8 +55,6 @@ Now, let's talk about building the website:
 
 
 
-By combining these technologies, we'll create a seamless and secure interface for users to control lights remotely, ensuring an enhanced user experience.
 
  
 
-#ITI #FOTA #Embedded_System #Embedded_Software #WebDevelopment #IoT #embeddedsystems  #FOTA #esp8266  #embeddedsoftware #embeddedengineer #HTML #css #php  #iot  
