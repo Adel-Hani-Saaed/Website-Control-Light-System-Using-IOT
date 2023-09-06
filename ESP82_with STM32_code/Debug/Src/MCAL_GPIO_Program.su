@@ -1,0 +1,15 @@
+MCAL_GPIO_Program.c:7:6:MCL_GPIO_vInitPort	24	static
+MCAL_GPIO_Program.c:34:6:MCL_GPIO_vSetPinMode	16	static
+MCAL_GPIO_Program.c:59:6:GPIO_voidSetPinMode	16	static
+MCAL_GPIO_Program.c:70:6:GPIO_voidSetPinALTF	16	static
+MCAL_GPIO_Program.c:98:6:GPIO_voidSetPinVal	16	static
+MCAL_GPIO_Program.c:126:6:MCL_GPIO_vSetPinCfg	16	static
+MCAL_GPIO_Program.c:149:6:MCL_GPIO_vSetPinAltFunc	16	static
+MCAL_GPIO_Program.c:159:6:MCL_GPIO_vAtomicSetPin	16	static
+MCAL_GPIO_Program.c:176:6:MCL_GPIO_vWritePins	16	static
+MCAL_GPIO_Program.c:187:6:MCL_GPIO_vTogglePin	16	static
+MCAL_GPIO_Program.c:195:4:MCL_GPIO_u8GetPinVal	16	static
+MCAL_GPIO_Program.c:203:6:MCL_GPIO_vWritePort	16	static
+MCAL_GPIO_Program.c:207:5:MCL_GPIO_u32ReadPort	16	static
+MCAL_GPIO_Program.c:211:13:GPIO_xSelectPortIndex	24	static
+MCAL_GPIO_Program.c:217:15:GPIO_xSelectReg	24	static

@@ -1,0 +1,8 @@
+CORE_NVIC_Program.c:8:6:COR_NVIC_vEnableInterrupt	16	static
+CORE_NVIC_Program.c:14:6:COR_NVIC_vDisableInterrupt	16	static
+CORE_NVIC_Program.c:20:6:COR_NVIC_vSetPendFlag	16	static
+CORE_NVIC_Program.c:24:6:COR_NVIC_vClrPendFlag	16	static
+CORE_NVIC_Program.c:29:6:COR_NVIC_vGetActiveFlag	16	static
+CORE_NVIC_Program.c:34:6:COR_NVIC_vSetPriorityCfg	16	static
+CORE_NVIC_Program.c:38:6:COR_NVIC_vSetPriority	24	static
+CORE_NVIC_Program.c:46:6:COR_NVIC_vSetSoftwareInt	16	static

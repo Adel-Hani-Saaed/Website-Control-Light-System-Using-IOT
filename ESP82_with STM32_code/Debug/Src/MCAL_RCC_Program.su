@@ -1,0 +1,7 @@
+MCAL_RCC_Program.c:11:6:MCL_RCC_vInitSysClk	16	static
+MCAL_RCC_Program.c:33:6:MCL_RCC_vEnablePeriphClk	16	static
+MCAL_RCC_Program.c:51:6:MCL_RCC_vDisablePeriphClk	16	static
+MCAL_RCC_Program.c:69:5:MCL_RCC_GetSYSCLKFreq	4	static
+MCAL_RCC_Program.c:89:5:MCL_RCC_GetHCLKFreq	8	static
+MCAL_RCC_Program.c:93:5:MCL_RCC_GetPCLK1Freq	8	static
+MCAL_RCC_Program.c:97:5:MCL_RCC_GetPCLK2Freq	8	static

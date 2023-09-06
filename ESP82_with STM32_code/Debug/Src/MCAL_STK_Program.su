@@ -1,0 +1,8 @@
+MCAL_STK_Program.c:7:6:MCL_STK_vInit	16	static
+MCAL_STK_Program.c:20:6:MCL_STK_vDelay_us	32	static
+MCAL_STK_Program.c:59:6:MCL_STK_vDelay_ms	32	static
+MCAL_STK_Program.c:98:6:MCL_STK_vSetIntervalSingle	16	static
+MCAL_STK_Program.c:113:6:MCL_STK_vSetIntervalPeriodic	16	static
+MCAL_STK_Program.c:127:6:MCL_STK_vStopInterval	4	static
+MCAL_STK_Program.c:133:5:MCL_STK_u32GetElapsed	16	static
+MCAL_STK_Program.c:139:5:MCL_STK_u32GetRemaining	16	static
